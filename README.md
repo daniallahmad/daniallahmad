@@ -9,7 +9,6 @@ time and passionate about writing code & solving problems.
 <br>
 <img align="right"  src="https://camo.githubusercontent.com/2fc62de642951c27b73fcef8bc7390837153ffbdded47bbe73472a164e59be5d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64616e69616c6c61686d61642673686f775f69636f6e733d74727565267468656d653d6c69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=daniallahmad&amp;show_icons=true&amp;theme=light" style="margin-top: 60px; max-width: 100%;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="240px" height="180px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-
 <br/>
 
 ### Languages and Tools:
@@ -32,6 +31,7 @@ time and passionate about writing code & solving problems.
 ### Social Links:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daniallahmad) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniallahmad/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dani.rao.00)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/daniallahmad/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/daniallahmad__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17292894)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/daniallahmad) 
+<br/>
 From [daniallahamd](https://github.com/daniallahmad)
 <!--
 Here are some ideas to get you started:
