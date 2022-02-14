@@ -6,7 +6,7 @@ Hard-working web developer with a flair for
 creating elegant solutions in the least amount of
 time and passionate about writing code & solving problems.
 <br/>
-<img align='right'style=" margin-top: 60px;" src="https://github-readme-stats.vercel.app/api?username=daniallahmad&show_icons=true&theme=light">
+<img align='right'style="max-width: 100%;margin-top: 60px;" src="https://github-readme-stats.vercel.app/api?username=daniallahmad&show_icons=true&theme=light">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 <br/>
 
