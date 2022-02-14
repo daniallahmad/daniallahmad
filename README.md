@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey everyone, I'm Daniall Ahmad 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniallahmad&show_icons=true)  
 
 <!--
 **daniallahmad/daniallahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
