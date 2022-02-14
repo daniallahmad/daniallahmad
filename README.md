@@ -5,9 +5,10 @@
 Hard-working web developer with a flair for
 creating elegant solutions in the least amount of
 time and passionate about writing code & solving problems.
-<br/>
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+
 <img align="right" src="https://camo.githubusercontent.com/2fc62de642951c27b73fcef8bc7390837153ffbdded47bbe73472a164e59be5d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64616e69616c6c61686d61642673686f775f69636f6e733d74727565267468656d653d6c69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=daniallahmad&amp;show_icons=true&amp;theme=light" style="margin-top: 60px;max-width: 100%;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+
 <br/>
 
 ### Languages and Tools:
