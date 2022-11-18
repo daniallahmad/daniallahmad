@@ -19,14 +19,12 @@ time and passionate about writing code & solving problems.
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" /> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png" /> </a>
-<a href="https://nodejs.org/en/" > <img align="left" alt="Node Js" width="26px" src="https://nodejs.org/static/images/logo-hexagon-card.png" style="max-width: 100%;"></a> <a href="https://reactjs.org/"> <img align="left" alt="React Js" width="26px" src="https://iconape.com/wp-content/files/zk/93042/svg/react.svg" style="max-width: 100%;"></a> 
-<a href="https://www.w3schools.com/laravel/" target="_blank"> <img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg" /> </a>
+<a href="https://nodejs.org/en/" > <img align="left" alt="Node Js" width="26px" src="https://user-images.githubusercontent.com/91689657/202797143-74186aba-0ca1-4e31-a477-3da3a5476067.png" style="max-width: 100%;"></a> <a href="https://reactjs.org/"> <img align="left" alt="React Js" width="26px" src="https://iconape.com/wp-content/files/zk/93042/svg/react.svg" style="max-width: 100%;"></a> 
 <br />
 <br />
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/atom.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Notepad++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" />
 <br />
