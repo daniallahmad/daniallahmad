@@ -6,10 +6,8 @@ Hard-working web developer with a flair for
 creating elegant solutions in the least amount of
 time and passionate about writing code & solving problems.
 <br>
-<br>
 <img align="right" style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="240px" height="180px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 <br/>
-
 ### Languages and Tools:
 
 
