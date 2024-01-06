@@ -1,12 +1,10 @@
 
 ### Hey everyone, I'm Daniall Ahmad 👋
-#### Web Developer
+#### Full Stack Developer
 <br/>
-Hard-working web developer with a flair for
-creating elegant solutions in the least amount of
-time and passionate about writing code & solving problems.
+I'm a Full Stack Developer with a passion for creating seamless digital experiences. With over 4 years in the field, I specialize in crafting robust and scalable web and mobile applications using cutting-edge technologies.
 <br>
-<img align="right" style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="240px" height="180px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img align="right" style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="240px" height="180px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif"/>
 <br/>
 
 ### Languages and Tools:
@@ -30,11 +28,9 @@ time and passionate about writing code & solving problems.
 
 ### Social Links:
 
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="26px">](https://github.com/daniallahmad) &nbsp;[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt='linkedin' width="26px">](https://www.linkedin.com/in/daniallahmad/) &nbsp; [<img align="left" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" alt='facebook' width="26px">](https://www.facebook.com/dani.rao.00) &nbsp;  [<img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt='instagram' width="26px">](https://www.instagram.com/daniallahmad/) &nbsp;  [<img align="left" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt='twitter' width="26px">](https://twitter.com/daniallahmad__) &nbsp; [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt='stackoverflow' width="26px">](https://stackoverflow.com/users/17292894) &nbsp;  [<img align="left" src="https://freewaysocial.com/wp-content/uploads/2020/12/Reddit-Icon.png" alt='Reddit' width="26px">](https://www.reddit.com/user/daniallahmad) 
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="26px">](https://github.com/daniallahmad) &nbsp;[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt='linkedin' width="26px">](https://www.linkedin.com/in/daniallahmad/) &nbsp; [<img align="left" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt='twitter' width="26px">](https://twitter.com/daniallahmadd) &nbsp; [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt='stackoverflow' width="26px">](https://stackoverflow.com/users/17292894) &nbsp;  [<img align="left" src="https://freewaysocial.com/wp-content/uploads/2020/12/Reddit-Icon.png" alt='Reddit' width="26px">](https://www.reddit.com/user/daniallahmad) 
 <br/>
 <br>
-From [daniallahamd](https://github.com/daniallahmad)
-</br>
 <!--
 Here are some ideas to get you started:
 
